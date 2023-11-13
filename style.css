@@ -122,4 +122,14 @@
     text-decoration: none;
 }
 
+.counter{
+    background-color: lightcoral;
+
+    border-radius: 0.5rem;
+    position:fixed;
+    bottom: 0;
+    right: 0;
+    padding: 1rem;
+}
+
 
